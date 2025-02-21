@@ -1,0 +1,1 @@
+In this Power Bi project, data cleaning is performed as well as an interactive dashboard, where a set of data is analyzed on the level of satisfaction of professionals in the area of ​​data analysis and data science.
